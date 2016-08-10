@@ -4,3 +4,6 @@ c:\users\hp\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debu
 c:\users\hp\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 c:\users\hp\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\hp\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\HP\Documents\GitHub\c-sharp-projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\HP\Documents\GitHub\c-sharp-projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\HP\Documents\GitHub\c-sharp-projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
